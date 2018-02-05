@@ -5,3 +5,7 @@ my first line
 my second line
 
 my third line
+
+Hey man this great
+
+Hey man this sucks
